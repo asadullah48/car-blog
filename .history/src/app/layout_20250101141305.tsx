@@ -16,8 +16,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: " CarBlog Website",
-  description: "Created with Next.js",
+  title: "Blog Website",
+  description: "Created with Next",
 };
 
 export default function RootLayout({

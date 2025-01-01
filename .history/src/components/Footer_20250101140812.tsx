@@ -9,7 +9,7 @@ export default function Footer(){
                 <h1 className="font-bold text-2xl text-orange-400">CAR BLOG</h1>
                 <p className="my-4 text-sm">Every service is rigorously screened and constantly rated to ensure you get the best service.</p>
                 <h2 className="text-sm text-gray-400">Support center 24/7</h2>
-                <h3 className="text-xl font-bold">+92 321 3771445</h3>
+                <h3 className="text-xl font-bold">+923353945855</h3>
                 </div>
                 <div className="">
                 <h1 className="font-bold  text-2xl text-orange-400">Popular Services</h1>

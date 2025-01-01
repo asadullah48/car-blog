@@ -1,6 +1,6 @@
 
 import BlogPage from "@/components/Blog";
-import { CardDemo } from "@/components/ui/Card";
+import { CardDemo } from "Card";
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
                   <BlogPage/>
                   <div className="bg-[#161616]  py-20  " id="Card">
                       <div className="max-w-[650px] lg:max-w-[1000px] xl:max-w-[1200px] mx-auto">
-                      {<CardDemo/> }
+                      <CardDemo/>
       
                       </div>
                       

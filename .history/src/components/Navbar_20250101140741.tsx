@@ -15,7 +15,7 @@ export default function Navbar() {
         <div className="flex p-5 pb-7  justify-between items-center  max-w-[1200px] mx-auto">
 
         
-        <h1 className="font-bold text-2xl text-white">CAR BLOG</h1>
+        <h1 className="font-bold text-2xl text-white"> BLOG</h1>
         
         <ul className="space-x-2 hidden md:block">
             <Link href={"/"}>

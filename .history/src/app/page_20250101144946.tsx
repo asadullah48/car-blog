@@ -1,6 +1,6 @@
 
 import BlogPage from "@/components/Blog";
-import { CardDemo } from "@/components/ui/Card";
+import { CardDemo } from "@/components/ui/";
 
 export default function Home() {
   return (

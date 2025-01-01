@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: " CarBlog Website",
+  title: "Blog Website",
   description: "Created with Next.js",
 };
 
